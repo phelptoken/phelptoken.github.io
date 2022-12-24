@@ -1,0 +1,148 @@
+/* woocommerce */
+
+.woocommerce-page .col-1,
+.woocommerce-page .col-2 {
+    width: 100% !important;
+    max-width: 100%;
+}
+
+.woocommerce form .form-row input.input-text,
+.woocommerce form .form-row textarea {
+    padding: 5px 10px;
+    width: 100%;
+}
+
+span.woocommerce-input-wrapper {
+    width: 100%;
+}
+
+.woocommerce-page table.cart td.actions.actions input {
+    display: inline-block;
+    width: auto;
+    margin: 0;
+}
+
+.woocommerce table.shop_table {
+    border: 1px solid rgba(0, 0, 0, 0);
+}
+
+#add_payment_method table.cart img,
+.woocommerce-cart table.cart img,
+.woocommerce-checkout table.cart img {
+    width: 90px;
+    box-shadow: none;
+}
+
+.woocommerce #content input.button.alt:hover,
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover,
+.woocommerce-page #content input.button.alt:hover,
+.woocommerce-page #respond input#submit.alt:hover,
+.woocommerce-page a.button.alt:hover,
+.woocommerce-page button.button.alt:hover,
+.woocommerce-page input.button.alt:hover {
+    background: -webkit-gradient(linear, left top, right top, from(#A34FFE), to(#5934FC));
+    background: -webkit-linear-gradient(left, #A34FFE, #5934FC);
+    background: -moz-linear-gradient(left, #A34FFE, #5934FC);
+    background: -o-linear-gradient(left, #A34FFE, #5934FC);
+    background: linear-gradient(to right, #A34FFE, #5934FC);
+    background-color: red !important;
+    color: white !important;
+    text-shadow: transparent !important;
+    box-shadow: none;
+    border-color: #ca0606 !important;
+}
+
+.woocommerce #content input.button:hover,
+.woocommerce #respond input#submit:hover,
+.woocommerce a.button:hover,
+.woocommerce button.button:hover,
+.woocommerce input.button:hover,
+.woocommerce-page #content input.button:hover,
+.woocommerce-page #respond input#submit:hover,
+.woocommerce-page a.button:hover,
+.woocommerce-page button.button:hover,
+.woocommerce-page input.button:hover {
+    background: -webkit-gradient(linear, left top, right top, from(#A34FFE), to(#5934FC));
+    background: -webkit-linear-gradient(left, #A34FFE, #5934FC);
+    background: -moz-linear-gradient(left, #A34FFE, #5934FC);
+    background: -o-linear-gradient(left, #A34FFE, #5934FC);
+    background: linear-gradient(to right, #A34FFE, #5934FC);
+    background-color: red !important;
+    color: white !important;
+    text-shadow: transparent !important;
+    box-shadow: none;
+    border-color: #ca0606 !important;
+}
+
+.woocommerce #content input.button,
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button,
+.woocommerce-page #content input.button,
+.woocommerce-page #respond input#submit,
+.woocommerce-page a.button,
+.woocommerce-page button.button,
+.woocommerce-page input.button {
+    background: -webkit-gradient(linear, left top, right top, from(#A34FFE), to(#5934FC));
+    background: -webkit-linear-gradient(left, #A34FFE, #5934FC);
+    background: -moz-linear-gradient(left, #A34FFE, #5934FC);
+    background: -o-linear-gradient(left, #A34FFE, #5934FC);
+    background: linear-gradient(to right, #A34FFE, #5934FC);
+    color: white !important;
+    text-shadow: transparent !important;
+    border-color: #ca0606 !important;
+}
+
+.woocommerce #content input.button.alt:hover,
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover,
+.woocommerce-page #content input.button.alt:hover,
+.woocommerce-page #respond input#submit.alt:hover,
+.woocommerce-page a.button.alt:hover,
+.woocommerce-page button.button.alt:hover,
+.woocommerce-page input.button.alt:hover {
+    background: -webkit-gradient(linear, left top, right top, from(#A34FFE), to(#5934FC));
+    background: -webkit-linear-gradient(left, #A34FFE, #5934FC);
+    background: -moz-linear-gradient(left, #A34FFE, #5934FC);
+    background: -o-linear-gradient(left, #A34FFE, #5934FC);
+    background: linear-gradient(to right, #A34FFE, #5934FC);
+    box-shadow: none;
+    text-shadow: transparent !important;
+    color: white !important;
+    border-color: #ca0606 !important;
+}
+
+.woocommerce table.shop_attributes td {
+    font-style: italic;
+    padding: 0 6px;
+}
+
+.woocommerce table.shop_attributes td {
+    font-style: italic;
+    padding: 0 6px;
+}
+
+.woocommerce.woocommerce span.onsale {
+    min-height: 2.236em;
+    min-width: 5.236em;
+    padding: .202em;
+    font-size: 1em;
+    font-weight: 700;
+    position: absolute;
+    text-align: center;
+    line-height: 3.236;
+    top: -.5em;
+    left: -.5em;
+    margin: 0;
+    border-radius: 0%;
+    background-color: #5f36fd;
+    color: #fff;
+    font-size: .857em;
+    z-index: 9;
+}
